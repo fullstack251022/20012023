@@ -1,0 +1,17 @@
+נא לעשות את כל התרגילים שכשורים ל 
+dom manipulation:
+https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
+
+יש פה 13 תרגילים עם פתרונות. 
+הם במקום לעשות 
+addEventListener("click",cb)
+משתמשים ב
+onclick="doSomething()"
+זה אותו דבר, על תפחדו
+
+בנוסף תתחילו לפתור את התרגילים מפה
+https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
+
+יש פה 150 תרגילים עם פתרונות! 
+אם משהו לא ברור תשתדלו לעזור אחד לשני בקבוצות ובנוסף תשמתשו גם ב
+google
